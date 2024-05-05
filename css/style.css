@@ -6,6 +6,13 @@
     --dark: #202942;
 }
 
+body{
+    background-color: var(--light);
+}
+
+a{
+    /* color: var(--light); */
+}
 
 /*** Spinner ***/
 #spinner {
